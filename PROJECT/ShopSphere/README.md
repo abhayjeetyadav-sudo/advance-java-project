@@ -6,8 +6,8 @@
 ---
 
 ### Student Info
-* **Name:** Pratham Kumar Singh
-* **Roll No:** 24EGJAD036
+* **Name:** Bharat Singh 
+* **Roll No:** 24EGJAD010
 * **College:** Global Institute of Technology (GIT), Jaipur
 * **University:** Rajasthan Technical University (RTU), Kota
 * **Semester:** 5th Semester (B.Tech CSE / AI & DS)
